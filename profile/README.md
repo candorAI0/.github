@@ -137,14 +137,12 @@ Two deliberate architectural choices:
 
 ## Market
 
-Candor enters through university writing courses, where the problem is sharpest and the assignments are entirely text. The product stays the same as it moves outward. The assignments are what change.
+Candor enters through university writing courses, where the problem is sharpest and the assignments are entirely text.
 
 | Segment | Why in this order |
 |---|---|
 | **Universities, first** | Faculty choose their own tools, budgets sit at department level, and students are adults, so consent and data handling stay comparatively simple. This is where the product gets proven. |
 | **K-12, next** | Larger seat counts and district-level buying. Minors change the picture: parental consent, COPPA, and state student-privacy law all apply, so this comes after the university product is settled. The study cited above already covers this segment. |
-
-The wedge: writing faculty absorb the most damage from AI today and have the fewest workable responses available. Every other segment is reached with the same product and a different assignment type.
 
 ## Status
 

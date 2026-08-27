@@ -81,7 +81,7 @@ Two are worth singling out. `no-ai-prose` is the rule Candor can check mechanica
 
 **The professor reviews in the dashboard.** Each submission shows the final text, a compressed timeline of the writing process, the complete AI conversation log, and any flagged events.
 
-**A flag is a question, not a verdict.** A large paste might be a student moving a draft in from another editor. Candor surfaces the event and leaves the judgment to a person. The system makes no claim about intent.
+**A flag is a question, not a verdict.** A large paste might be a student moving a draft in from another editor. Candor surfaces the event and leaves the judgment to the educator. The system makes no claim about intent.
 
 ## Design principles
 

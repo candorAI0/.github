@@ -48,11 +48,34 @@ This turns an unanswerable forensic question into a factual one.
 
 ## How it works
 
-**The professor sets the rules, per assignment.** AI policy is defined at the assignment level rather than the institution level, because the right policy depends on what the course teaches:
+**The professor sets the rules, per assignment.** AI policy is defined at the assignment level rather than the institution level, because the right policy depends on what the course teaches. Ten policies are available, grouped by how far Candor can stand behind them.
 
-- `banned`: no AI assistance
-- `allowed-with-log`: use it freely, and the conversation forms part of the submission
-- `allowed-brainstorm-only`: AI for outlining and idea generation, not for drafting final prose
+*Enforced. The window or the proxy prevents it.*
+
+| Policy | What it does |
+|---|---|
+| `banned` | The AI pane never opens |
+| `locked-until-draft` | The pane stays shut until the student has written a set number of their own words |
+| `turn-limited` | A fixed number of exchanges, set per assignment |
+| `socratic-only` | The assistant may only ask questions. It never produces prose |
+| `mechanics-only` | Grammar, spelling, and punctuation only. No content and no structure |
+
+*Observed. Recorded and flagged for a person to judge.*
+
+| Policy | What it does |
+|---|---|
+| `allowed-brainstorm-only` | AI for outlining and idea generation, not for drafting final prose |
+| `allowed-revision-only` | The assistant critiques the student's own draft rather than replacing it |
+| `no-ai-prose` | Talk freely, but no AI text may enter the document |
+
+*Procedural. Adds a requirement to the submission.*
+
+| Policy | What it does |
+|---|---|
+| `allowed-with-log` | Use it freely, and the conversation forms part of the submission |
+| `allowed-with-reflection` | Use it freely, and submit a short account of how it was used |
+
+Two are worth singling out. `no-ai-prose` is the rule Candor can check mechanically, by comparing the assistant's responses against the text of the document. `locked-until-draft` is the one no detector can express at all: it makes the student think first and use AI second.
 
 **The student writes in the app.** A distraction-limited editor sits on one side and an AI chat pane on the other. The assignment's AI policy is enforced in the app, and the student sees exactly what is being recorded.
 

@@ -154,7 +154,7 @@ Two ladders run at once. One moves between institutions, the other between disci
 | II | Business and marketing (BUS, MKTG) | Case studies, marketing plans, and memos. The same structure, in a context where professional AI fluency already carries explicit value. |
 | III | Computer science | The long-term prize, and the hardest. Assistance is already normal there, so the question shifts from whether AI was used to whether the student can still reason about what it produced. |
 
-The wedge: writing faculty absorb the most damage from AI today and have the fewest workable responses available. Every other segment is reached with the same product and a different assignment type, except computer science, which needs the capture layer to understand editors and test runs rather than prose.
+The wedge: writing faculty absorb the most damage from AI today and have the fewest workable responses available. Every other segment is reached with the same product and a different assignment type.
 
 ## Status
 

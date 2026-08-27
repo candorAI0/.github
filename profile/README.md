@@ -11,7 +11,7 @@ Candor lets professors permit AI use in student work and see how it was used, in
 Students are already using AI. Colleges have two responses, and both fail:
 
 - **Ban it.** Bans are unenforceable. Detection of AI-written prose is unreliable, so a ban punishes the honest and the careless while missing everyone else.
-- **Ignore it.** The assignment stops measuring anything, and nobody says so out loud.
+- **Ignore it.** The assignment still gets graded. It has stopped measuring the student.
 
 Underneath both sits a framing problem. Academic integrity policy treats AI use as cheating. In the professional world students are heading into, using AI well is expected and rewarded.
 

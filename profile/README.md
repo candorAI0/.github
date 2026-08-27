@@ -137,22 +137,12 @@ Two deliberate architectural choices:
 
 ## Market
 
-Two ladders run at once. One moves between institutions, the other between disciplines. The product stays the same. The assignments are what change.
-
-**By institution**
+Candor enters through university writing courses, where the problem is sharpest and the assignments are entirely text. The product stays the same as it moves outward. The assignments are what change.
 
 | Segment | Why in this order |
 |---|---|
 | **Universities, first** | Faculty choose their own tools, budgets sit at department level, and students are adults, so consent and data handling stay comparatively simple. This is where the product gets proven. |
 | **K-12, next** | Larger seat counts and district-level buying. Minors change the picture: parental consent, COPPA, and state student-privacy law all apply, so this comes after the university product is settled. The study cited above already covers this segment. |
-
-**By discipline**
-
-| Stage | Courses | Why |
-|---|---|---|
-| I | Writing and philosophy (ENG, PHIL) | The assignments are entirely text, and "how was this reasoned?" is not a side concern, it is the thing being assessed. |
-| II | Business and marketing (BUS, MKTG) | Case studies, marketing plans, and memos. The same structure, in a context where professional AI fluency already carries explicit value. |
-| III | Computer science | The long-term prize, and the hardest. Assistance is already normal there, so the question shifts from whether AI was used to whether the student can still reason about what it produced. |
 
 The wedge: writing faculty absorb the most damage from AI today and have the fewest workable responses available. Every other segment is reached with the same product and a different assignment type.
 

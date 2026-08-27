@@ -29,7 +29,7 @@ Tools that classify finished text as human or machine fail for structural reason
 | Adversarial arms race | Every model release resets the detector's accuracy |
 | Binary output | "87% AI" tells a professor nothing about how AI was used |
 
-Detection also answers the wrong question. "Was AI used?" is the wrong question when the honest answer for most assignments should be yes, with permission. The useful question is how, and the final text alone cannot answer it.
+Detection also answers the wrong question. "Was AI used?" is the wrong question when the modern answer for most assignments should be yes, with permission. The useful question is how, and the final text alone cannot answer it.
 
 ## What Candor does instead
 

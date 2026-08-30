@@ -139,10 +139,13 @@ Two deliberate architectural choices:
 
 Candor enters through university writing courses, where the problem is sharpest and the assignments are entirely text.
 
-| Segment | Why in this order |
+Each tier after the first is larger than the last and slower to sell into, so the order follows how hard each one is to reach rather than how big it is.
+
+| Tier | Why in this order |
 |---|---|
-| **Universities, first** | Faculty choose their own tools, budgets sit at department level, and students are adults, so consent and data handling stay comparatively simple. This is where the product gets proven. |
-| **K-12, next** | Larger seat counts and district-level buying. Minors change the picture: parental consent, COPPA, and state student-privacy law all apply, so this comes after the university product is settled. The study cited above already covers this segment. |
+| **1. Universities and higher education** | Faculty choose their own tools, budgets sit at department level, and students are adults, so consent and data handling stay comparatively simple. This is where the product gets proven. |
+| **2. Private K-12** | Schools buy directly, without district procurement or board approval, and many hold discretionary budgets for academic technology. Minors bring parental consent and COPPA into scope, and the short buying cycle makes it the right place to work that out. The study cited above covers exactly this age group. |
+| **3. Public K-12** | The largest seat counts and the slowest path. District procurement, state student-privacy statutes, and board approval all apply, so it comes last, once the compliance work is done and there are private schools willing to act as references. |
 
 ## Status
 
